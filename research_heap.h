@@ -1,0 +1,5 @@
+#ifndef RESEARCH_HEAP
+#define RESEARCH_HEAP
+
+#endif // RESEARCH_HEAP
+
